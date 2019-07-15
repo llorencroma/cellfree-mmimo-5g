@@ -1,4 +1,4 @@
-# cellfree-mmimo-5g
+# Cell Free Massive MIMO in 5g systems
 Author: I am Llorenç Romá, a Telematic engineering student at UIB (Mallorca, Spain) and this is my bachelor's degree thesis.
 
 Advisors: Guillem Femenias Nadal, Felip Riera-Palou
