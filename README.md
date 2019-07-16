@@ -1,19 +1,18 @@
 # Cell Free Massive MIMO in 5g systems
-Author: I am Llorenç Romá, a Telematic engineering student at UIB (Mallorca, Spain) and this is my bachelor's degree thesis.
+__Author:__ I am Llorenç Romá, a Telematic engineering student at UIB (Mallorca, Spain) and I did this project for  my bachelor's degree thesis.
 
-Advisors: Guillem Femenias Nadal, Felip Riera-Palou
+__Advisors:__ Guillem Femenias Nadal, Felip Riera-Palou
+__Department:__  Enginyeria Telemàtica, Higher Polythechnic School
 
-Department:  Enginyeria Telemàtica, Higher Polythechnic School
+__Academic year:__ 2017-2018
 
-Academic year: 2017-2018
-
-Abstract:
+__Abstract:__
 
 This thesis aims to compare Cell Free (CF) and User Centric (UC) architecture's performance in terms of uplink/downlink transmission rate provided to the system's users and the required fronthaul capacity in the Access Points (AP) located in the system which serve those users. To obtain the results I consider different basic parameters of the system such number of users in the system, number of served users per AP in UC or the required time to obtain information about the communication channels.
 
 Eventhough both architectures provide a similar transmission rate to the system's users during the downlink phase, UC based system's users obtain a better transmission rate during the uplink phase. Moreover, taking into account the basics of both architectures it is trivial to find out that the required fronthaul capacity in the AP to serve system's users is much lower in a UC based architecture than the required in a CF based one.
 
-Resumen:
+__Resumen:__
 
 En este Trabajo Final de Grado se comparan las prestaciones de las arquitecturas Cell Free y User Centric en cuanto a la tasa de transmisión proporcionada a los usuarios del sistema en el uplink y downlink y a la capacidad de fronthaul necesaria en las estaciones
 base (o Access Points) del sistema para dar servicio a los usuarios. Esta comparativa se lleva a cabo teniendo en cuenta diferentes valores de los parámetros básicos del sistema tales como el número de usuarios del sistema, el número de usuarios a los que da servicio
@@ -22,6 +21,6 @@ red basada en User Centric obtienen mejor tasa de transmisión en el uplink. Ade
 
 
 
-Code:
+__Code:__
 
 The project has been developed in Matlab.
