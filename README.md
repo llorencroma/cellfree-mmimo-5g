@@ -2,6 +2,7 @@
 __Author:__ I am Llorenç Romá, a Telematic engineering student at UIB (Mallorca, Spain) and I did this project for  my bachelor's degree thesis.
 
 __Advisors:__ Guillem Femenias Nadal, Felip Riera-Palou
+
 __Department:__  Enginyeria Telemàtica, Higher Polythechnic School
 
 __Academic year:__ 2017-2018
